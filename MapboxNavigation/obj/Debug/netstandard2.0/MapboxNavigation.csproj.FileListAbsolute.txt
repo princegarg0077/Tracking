@@ -1,0 +1,17 @@
+C:\Daily Task\MapboxNavigation\MapboxNavigation\bin\Debug\netstandard2.0\MapboxNavigation.deps.json
+C:\Daily Task\MapboxNavigation\MapboxNavigation\bin\Debug\netstandard2.0\MapboxNavigation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation\bin\Debug\netstandard2.0\ref\MapboxNavigation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation\bin\Debug\netstandard2.0\MapboxNavigation.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.csproj.AssemblyReference.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.AssemblyInfoInputs.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.AssemblyInfo.cs
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.csproj.CoreCompileInputs.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\refint\MapboxNavigation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation\obj\Debug\netstandard2.0\MapboxNavigation.pdb

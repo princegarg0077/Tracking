@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJ9GPrAqHQpfw1aQD2uTR3oGsNGdzNGx6FxOpfQgRm/DYQUeVPQmsvqmVtB7J+ZSJoy4RvDrelxWlfHrboJLbg==",
+  "success": true,
+  "projectFilePath": "C:\\Daily Task\\MapboxNavigation\\MapboxNavigation.iOS\\MapboxNavigation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1287 @@
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.Android.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.Android.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation.apk
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation.aab
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation-Signed.aab
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation-Signed.apk
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation-Signed.apk.idsig
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\build.props
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\adb.props
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.csproj.AssemblyReference.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res.flag
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\53\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\54\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\60\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\61\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\62\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\66\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\67\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\68\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\73\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\74\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\78\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\84\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\86\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\87\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\88\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\89\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\90\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\91\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\92\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\94\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\95\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\96\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\97\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\98\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\103\jl\files.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\R.txt
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\R.cs.flag
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.csproj.CoreCompileInputs.cache
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.csproj.CopyComplete
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\com.companyname.mapboxnavigation.apk
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\base.zip
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\com.companyname.mapboxnavigation.aab
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\com.companyname.mapboxnavigation.apks
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\values\styles.xml
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\values\colors.xml
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-hdpi\icon.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-hdpi\launcher_foreground.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-mdpi\icon.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-mdpi\launcher_foreground.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xhdpi\icon.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xhdpi\launcher_foreground.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxhdpi\icon.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxhdpi\launcher_foreground.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxxhdpi\icon.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\xamarin_logo.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\icon_about.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\icon_feed.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\uploadflags.txt
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\resolvedassemblies.hash
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\FormsViewGroup.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Java.Interop.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Java.Interop.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.Android.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.Android.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Android.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Android.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Security.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Security.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\mscorlib.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\mscorlib.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\netstandard.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Core.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Core.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Drawing.Common.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Drawing.Common.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Net.Http.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Net.Http.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Runtime.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Transactions.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Transactions.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Web.Services.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Web.Services.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.Linq.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.Linq.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Essentials.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Essentials.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.pdb
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.arm64-v8a.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.armeabi-v7a.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86_64.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\AndroidManifest.xml
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\AndroidManifest.xml
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\MonoRuntimeProvider.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\JavaInteropTypeManager.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\machine.config
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\mono.android.jar
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\static.flag
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\__environment__.txt
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\buildid.txt
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.arm64-v8a.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.armeabi-v7a.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86_64.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\annotation\experimental\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\resources\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\browser\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\cardview\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\constraintlayout\widget\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\coordinatorlayout\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\core\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\drawerlayout\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\fragment\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\lifecycle\runtime\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\lifecycle\viewmodel\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\media\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\navigation\common\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\navigation\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\navigation\ui\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\preference\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\recyclerview\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\savedstate\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\swiperefreshlayout\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\transition\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\viewpager2\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\com\google\android\material\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64970cb51c04773fa5\MainActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\android\app\ApplicationRegistration.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\MonoPackageManager_Resources.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\xamarin\essentials\fileProvider.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\packaged_resources
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\com\companyname\mapboxnavigation\R.java
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86_64.ll
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.arm64-v8a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.armeabi-v7a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86_64.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.arm64-v8a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.armeabi-v7a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86_64.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86_64.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.arm64-v8a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.armeabi-v7a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.x86.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.x86_64.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.arm64-v8a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.armeabi-v7a.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.x86.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.x86_64.o
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\x86\libxamarin-app.so
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\x86_64\libxamarin-app.so
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\classes.dex
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_CleanIntermediateIfNeeded.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_CompileJava.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_CompileToDalvik.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_ConvertCustomView.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_ConvertResourcesCases.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\map.png
+D:\project\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\setting.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.Android.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.Android.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation.apk
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation.aab
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation-Signed.aab
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation-Signed.apk
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\com.companyname.mapboxnavigation-Signed.apk.idsig
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\bin\Debug\MapboxNavigation.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\build.props
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\adb.props
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.csproj.AssemblyReference.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res.flag
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\53\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\54\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\60\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\61\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\62\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\66\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\67\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\68\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\73\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\74\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\78\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\84\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\86\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\87\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\88\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\89\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\90\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\91\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\92\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\94\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\95\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\96\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\97\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\98\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\lp\103\jl\files.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\R.txt
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\R.cs.flag
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.csproj.CoreCompileInputs.cache
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNa.8074B38D.Up2Date
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\MapboxNavigation.Android.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\com.companyname.mapboxnavigation.apk
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\base.zip
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\com.companyname.mapboxnavigation.aab
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\com.companyname.mapboxnavigation.apks
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\values\styles.xml
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\values\colors.xml
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-hdpi\icon.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-hdpi\launcher_foreground.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-mdpi\icon.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-mdpi\launcher_foreground.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xhdpi\icon.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xhdpi\launcher_foreground.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxhdpi\icon.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxxhdpi\icon.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\xamarin_logo.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\icon_about.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\icon_feed.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\map.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\setting.png
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\uploadflags.txt
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\resolvedassemblies.hash
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\FormsViewGroup.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Java.Interop.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Java.Interop.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.Android.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.Android.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\MapboxNavigation.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Android.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Android.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Security.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Mono.Security.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\mscorlib.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\mscorlib.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\netstandard.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ComponentModel.Composition.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Core.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Core.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.DataSetExtensions.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Data.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Drawing.Common.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Drawing.Common.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.IO.Compression.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Net.Http.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Net.Http.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Numerics.Vectors.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Runtime.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Runtime.Serialization.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.ServiceModel.Internals.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Transactions.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Transactions.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Web.Services.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Web.Services.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.Linq.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.Linq.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\System.Xml.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Preference.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Essentials.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Essentials.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Core.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Platform.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.arm64-v8a.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.armeabi-v7a.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86_64.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\AndroidManifest.xml
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\AndroidManifest.xml
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\MonoRuntimeProvider.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\JavaInteropTypeManager.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\assets\machine.config
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\mono.android.jar
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\static.flag
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\__environment__.txt
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\buildid.txt
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.arm64-v8a.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.armeabi-v7a.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86_64.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\annotation\experimental\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\resources\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\browser\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\cardview\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\constraintlayout\widget\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\coordinatorlayout\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\core\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\drawerlayout\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\fragment\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\lifecycle\runtime\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\lifecycle\viewmodel\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\media\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\navigation\common\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\navigation\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\navigation\ui\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\preference\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\recyclerview\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\savedstate\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\swiperefreshlayout\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\transition\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\androidx\viewpager2\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\com\google\android\material\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64970cb51c04773fa5\MainActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\android\app\ApplicationRegistration.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\mono\MonoPackageManager_Resources.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\xamarin\essentials\fileProvider.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\packaged_resources
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\src\com\companyname\mapboxnavigation\R.java
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86_64.ll
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.arm64-v8a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.armeabi-v7a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\typemaps.x86_64.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.arm64-v8a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.armeabi-v7a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\environment.x86_64.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\compressed_assemblies.x86_64.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.arm64-v8a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.armeabi-v7a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.x86.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\marshal_methods.x86_64.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.arm64-v8a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.armeabi-v7a.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.x86.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\jni_remap.x86_64.o
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\x86\libxamarin-app.so
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\android\bin\classes.dex
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_CompileJava.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_CompileToDalvik.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_ConvertCustomView.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_ConvertResourcesCases.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Daily Task\MapboxNavigation\MapboxNavigation.Android\obj\Debug\130\res\drawable\mapicon.png
